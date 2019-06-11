@@ -12,6 +12,9 @@ const dev = {
     USER_POOL_ID: "ap-southeast-2_NkaaHXyIA",
     APP_CLIENT_ID: "7kgmb32lec7brt18pmv7cacdko",
     IDENTITY_POOL_ID: "ap-southeast-2:d022a4aa-f427-413c-aecf-3552dbeb2765"
+  },
+  stripe: {
+    STRIP_KEY: 'pk_test_3osQpDNtVABTjri6pa57eHLt006r1m3VCD'
   }
 };
 
@@ -29,6 +32,9 @@ const prod = {
     USER_POOL_ID: "ap-southeast-2_NkaaHXyIA",
     APP_CLIENT_ID: "7kgmb32lec7brt18pmv7cacdko",
     IDENTITY_POOL_ID: "ap-southeast-2:d022a4aa-f427-413c-aecf-3552dbeb2765"
+  },
+  stripe: {
+    STRIP_KEY: 'pk_test_3osQpDNtVABTjri6pa57eHLt006r1m3VCD'
   }
 };
 
