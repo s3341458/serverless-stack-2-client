@@ -14,7 +14,7 @@ const dev = {
     IDENTITY_POOL_ID: "ap-southeast-2:d022a4aa-f427-413c-aecf-3552dbeb2765"
   },
   stripe: {
-    STRIP_KEY: 'pk_test_3osQpDNtVABTjri6pa57eHLt006r1m3VCD'
+    STRIPE_KEY: 'pk_test_3osQpDNtVABTjri6pa57eHLt006r1m3VCD'
   }
 };
 
@@ -34,7 +34,7 @@ const prod = {
     IDENTITY_POOL_ID: "ap-southeast-2:d022a4aa-f427-413c-aecf-3552dbeb2765"
   },
   stripe: {
-    STRIP_KEY: 'pk_test_3osQpDNtVABTjri6pa57eHLt006r1m3VCD'
+    STRIPE_KEY: 'pk_test_3osQpDNtVABTjri6pa57eHLt006r1m3VCD'
   }
 };
 
